@@ -4,7 +4,8 @@
 
 Game feito no Java com o FrameWork Jframe, um simples jogo de aviões, com o objetivo de eliminar os inimigos.
 
-![alt text](https://imgur.com/a/G3aFCIM)
+
+![WarPlane](https://user-images.githubusercontent.com/81306149/116784260-a74c1000-aa69-11eb-87b2-738e1af1c7a7.png)
 
 ## Exemplo de uso
 Pode ser usado como base de estudos para colições, drawImage, gGraphics..
